@@ -71,5 +71,5 @@ REGEX(2): /^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$/
 ## Author: Jose Muchati 
 - I am a passionate developer with a strong foundation on creating and working on multiple branches via GitHub. My experience includes making logo generators, note taking websites, and to do list websites, and even working in the backend making sure servers are functional via the website. I have used render to publish websites and other projects. And I thrive in a collaborative environment where I can continue learning and refining my skills among other developers.
 - [GitHub profile](https://github.com/Uwttn)
-
+- [Link to Gist](https://gist.github.com/Uwttn/f4dec3ffa0043a3e52e8e4da68d56e2d)
 
