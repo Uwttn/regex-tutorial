@@ -13,15 +13,17 @@ REGEX(2): /^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$/
 ## Table of Contents
 
 - [Regex(1)](#regex1-a-za-z0-9)
-    - [Anchors](#anchors )
-    - [Quantifiers](#quantifiers )
-
-- [Regex(2)](#regex2-a-fa-f0-96a-fa-f0-93)
     - [Anchors](#anchors)
     - [Quantifiers](#quantifiers)
-    - [Grouping Constructs](#grouping-constructs)
     - [Bracket Expressions](#bracket-expressions)
     - [Character Classes](#character-classes)
+
+- [Regex(2)](#regex2-a-fa-f0-96a-fa-f0-93)
+    - [Anchors](#anchors-1)
+    - [Quantifiers](#quantifiers-1)
+    - [Grouping Constructs](#grouping-constructs)
+    - [Bracket Expressions](#bracket-expressions-1)
+    - [Character Classes](#character-classes-1)
     - [The OR Operator](#the-or-operator)
     - [Flags](#flags)
     - [Character Escapes](#character-escapes)
@@ -33,10 +35,12 @@ REGEX(2): /^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$/
     $: Asserts the end of a line or string.
 
 ## Quantifiers 
-    *: Matches the preceding element zero or more times. In this regex, * allows any sequence of characters within the character class [a-zA-Z0-9] to appear zero or more times.
-    Bracket Expressions
+    *: Matches the preceding element zero or more times. In this regex, * allows any sequence of characters within the character class [a-zA-Z0-9] to appear zero or more times.\
+
+## Bracket Expressions 
     [a-zA-Z0-9]: A bracket expression that defines a character class matching any lowercase letter (a-z), uppercase letter (A-Z), or digit (0-9).
-    Character Classes
+    
+## Character Classes 
     [a-zA-Z0-9] is a character class, meaning it matches any single character from the set of lowercase letters, uppercase letters, or digits.
 
 # REGEX(2): /^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$/
