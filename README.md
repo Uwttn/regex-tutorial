@@ -1,5 +1,5 @@
 # regex tutorial
-
+![alt text](regex.png)
 regex is a complex form of JavaScript that allows you to create unique formats depending on the setting that you need it be in.
 
 ## Summary
